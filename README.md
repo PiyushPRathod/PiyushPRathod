@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning skills to land my dream job and have a satisfied work-life balance
 - 📫 How to reach me: official.piyushrathod@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Coffee and candy a day keeps the developer awake 
+- ⚡ Fun fact: Coffee and some bugs are the Developer's companion
 
 <!---
 PiyushPRathod/PiyushPRathod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
